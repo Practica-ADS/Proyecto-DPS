@@ -2,6 +2,8 @@
 Diseño y Programación de Software Multiplataforma
 # Autores
 
+GRUPO 2°
+
 Daniel Ernesto Molina          Carnet:MM211719
 
 Edgardo Bltazar Perez Molina   Carnet:PM211493
